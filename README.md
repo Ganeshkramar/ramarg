@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning MASTER'S APPLIED ANALYTICS IN BOSTON.
 - 💞️ I’m looking to collaborate on Data Analyst.
-- 📫 How to reach me on ramarg2bc.edu.
+- 📫 How to reach me on ramarg@bc.edu.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a good coder.
 
